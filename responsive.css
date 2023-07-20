@@ -9,4 +9,18 @@
    .banner-con{
     flex-direction: column-reverse;
    }
+   .c{
+    flex-direction: column;
+   }
+   .img-1{
+    margin-right: 300px;
+   }
+   
+   .icon{
+    margin-left: 220px;
+    flex-direction: column;
+   }
+   .c-3{
+    flex-direction: column;
+   }
 }
