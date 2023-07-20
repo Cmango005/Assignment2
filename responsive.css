@@ -12,7 +12,7 @@
    .c{
     flex-direction: column;
    }
-   .gm{
+   .gm-2{
     margin-right: 330px;
    }
    .img-1{
@@ -30,4 +30,11 @@
    .terms{
     flex-direction: column;
    }
-}
+   .online-games{
+    height: 250vh;
+   }
+   .game-img{
+    flex-direction: column;
+   }
+   
+  }

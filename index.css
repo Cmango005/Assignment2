@@ -135,7 +135,7 @@ h2{
     height: 100vh;
     background-color: black;
     font-family: 'Open Sans', sans-serif;
-  font-family: 'Work Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
 
 }
 .logo-2{
@@ -146,6 +146,9 @@ h2{
     margin-left: 320px;
     padding-top: 50px;
     
+}
+.gm-2{
+  margin-left: 10px;
 }
 .logo-2 img{
   width: 45px;
@@ -240,4 +243,154 @@ h2{
 .terms p{
   color: white;
   font-size: small;
+}
+.online-games{
+  height: 100vh;
+  
+}
+.txt{
+  margin-top: 50px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+}
+.Funny{
+  background-image: linear-gradient(to bottom,pink,blue);
+    color: transparent;
+    -webkit-background-clip: text;
+}
+.game-img{
+  display: flex;
+  gap: 20px;
+  margin-top: 30px;
+  margin-left: 100px;
+  margin-right: 50px;
+}
+
+.game-img1 img{
+  height: 200px;
+  width: 100%;
+  margin-right: 20px;
+ 
+}
+.game-img2 img{
+  height: 200px;
+  width: 100%;
+  
+}
+.game-img3 img{
+  height: 200px;
+  width: 100%;
+  margin-right: 50px;
+}
+.game-img4 img{
+
+ 
+  margin-right: 40px;
+  height: 200px;
+  width: 100%;
+}
+
+.p-4{
+  padding-top: 10px;
+ 
+}
+
+.game-img1 {
+  position: relative;
+  display: inline-block; 
+}
+
+.play-button {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 60px;
+  height: 50px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  
+  
+}
+
+.play-button svg {
+  width: 40px;
+  height: 40px;
+}
+.game-img2 {
+  position: relative;
+  display: inline-block; 
+}
+
+.play-button2 {
+  position: absolute;
+  top: 40%;
+  left: 52%;
+  transform: translate(-50%, -50%);
+  width: 60px;
+  height: 50px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.play-button2 svg {
+  width: 40px;
+  height: 40px;
+}
+.game-img3 {
+  position: relative;
+  display: inline-block; 
+}
+
+.play-button3 {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 60px;
+  height: 50px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.play-button3 svg {
+  width: 40px;
+  height: 40px;
+}
+.game-img4 {
+  position: relative;
+  display: inline-block; 
+}
+
+.play-button4 {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 60px;
+  height: 50px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.play-button4 svg {
+  width: 40px;
+  height: 40px;
 }
