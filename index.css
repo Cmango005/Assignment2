@@ -132,8 +132,11 @@ h2{
     background-color:#32b7ef;
   }
 .foot{
-    height: 75vh;
+    height: 100vh;
     background-color: black;
+    font-family: 'Open Sans', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+
 }
 .logo-2{
     display: flex;
@@ -226,4 +229,15 @@ h2{
 }
 .gp{
   margin-left: 40px;
+}
+.terms{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-top: 20px;
+  
+}
+.terms p{
+  color: white;
+  font-size: small;
 }

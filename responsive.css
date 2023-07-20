@@ -12,8 +12,12 @@
    .c{
     flex-direction: column;
    }
+   .gm{
+    margin-right: 330px;
+   }
    .img-1{
-    margin-right: 300px;
+    
+    margin-right: 10px;
    }
    
    .icon{
@@ -21,6 +25,9 @@
     flex-direction: column;
    }
    .c-3{
+    flex-direction: column;
+   }
+   .terms{
     flex-direction: column;
    }
 }
