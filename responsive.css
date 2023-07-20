@@ -36,5 +36,8 @@
    .game-img{
     flex-direction: column;
    }
+   .no-down{
+    flex-direction: column;
+   }
    
   }
