@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Work+Sans&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.head{
+    
+    min-height: 75px;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    background-color:white;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    
+}
+.logo img{
+    width: 45px;
+   
+}
+.a-con{
+    display: flex;
+    align-items: center;
+}
+.a-con a{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    
+}
+.flw-btn{
+    border: 1px solid white;
+    background-color: silver;
+    border-radius: 5px;
+    padding: 10px;
+    
+}
+.gm{
+    margin-left: 10px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.banner-con{
+    
+    margin: 50px auto 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1400px;
+    min-height: 50px;
+}
+.banner-txt{
+  width:50%;
+  margin-left: 100px;
+  align-items: center;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+  
+}
+.banner-img{
+ width: 50%;
+}
+.banner-img img{
+    width: 100%;
+    height: 100%;
+}
+h2{
+    margin: 12px;
+    font-size: 30px;
+}
+.goat{
+    background-image: linear-gradient(to bottom,pink,blue);
+    color: transparent;
+    -webkit-background-clip: text;
+    font-size: 45px;
+    font-weight: bolder;
+    margin: 10px;
+    
+  }
+  .p-1{
+    margin: 10px;
+  }
+  .p-2{
+    margin: 10px;
+  }
+  .p-3{
+    margin: 10px;
+  }
+  .button{
+    margin-top: 20px;
+    margin-left: 10px;
+    
+  }
+  .b-1{
+    background-color: #FF42A5;
+    border-radius: 20px;
+    padding: 10px;
+    border: none;
+    cursor:pointer;
+    transition: opacity .15s;
+   color:white
+   
+  }
+  .b-1:hover{
+    opacity:.7;
+  }
+
+  .b-2{
+    margin-left: 15px;
+    background-color: #4EC5F7;
+    border-radius: 20px;
+    padding: 10px;
+    border: none;
+    cursor:pointer;
+    transition:opacity 0.15s background-color .15;
+    color: white;
+  }
+  .b-2:hover{
+    opacity:.7;
+  }
+  .b-2:active{
+    background-color:#32b7ef;
+  }
+  .foot{
+    height: 75vh;
+    background-color: black;
+  }
+  .logo-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin-left: 300px;
+    padding-top: 50px;
+    
+}
+.logo-2 img{
+  width: 45px;
+ 
+}
+.page{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  gap: 20px;
+  
+}
+.page a{
+  gap: 40px;
+  text-decoration: none;
+  color: white;
+}

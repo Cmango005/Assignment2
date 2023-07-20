@@ -1,0 +1,12 @@
+@media screen and ( max-width:576px ) {
+    .head{
+      flex-direction: column;
+        
+    }
+    .a-con{
+        flex-direction: column;
+    }
+   .banner-con{
+    flex-direction: column-reverse;
+   }
+}
